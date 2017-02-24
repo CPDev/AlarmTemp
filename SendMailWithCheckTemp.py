@@ -73,4 +73,3 @@ while True:
 # the results will be null (because Linux can't
 # guarantee the timing of calls to read the sensor).  
 # If this happens try again!
-# Test Check IN
